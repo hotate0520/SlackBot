@@ -2,6 +2,7 @@ package com.example.slackbot.controller;
 
 public interface Constants
 {
+	// IS_USE_PROXY : true / false
 	Boolean IS_USE_PROXY = true;
     String BOT_TOKEN = "xoxb-*****************************************";
     String PROXY_HOST = "your proxy URL";
