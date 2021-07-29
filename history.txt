@@ -1,6 +1,4 @@
 aaaaaaaaaaaaaa
 aaa
 
-aaaaaa
-
-こっちは子供
+こっちはmaster
